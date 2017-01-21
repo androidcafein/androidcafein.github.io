@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: AndroidCafe.in
 locale: en_US
 description: Describe your website here.
 logo: site-logo.png
@@ -36,9 +36,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: androidcafe.in
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: hi@henrytao.me
   disqus-shortname:
   twitter: #username
   facebook: #username
