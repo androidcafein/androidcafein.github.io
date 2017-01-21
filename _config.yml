@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: https://androidcafein.github.io/
+url: https://androidcafein.github.io
 
 # Jekyll configuration
 
